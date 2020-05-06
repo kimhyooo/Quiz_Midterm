@@ -11,6 +11,7 @@ import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
 
+    //test용으로 추가한 주석(지우면 됩니다.)
     EditText edit_name;
     Button start_btn, other_btn;
     String name;

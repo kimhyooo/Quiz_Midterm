@@ -18,6 +18,7 @@
 
     </FrameLayout>
 
+    //test용으로 추가한 주석(지우면 됩니다.)
     <TextView
         android:id="@+id/receive_name"
         android:layout_width="wrap_content"
