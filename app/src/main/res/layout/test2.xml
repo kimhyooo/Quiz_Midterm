@@ -6,7 +6,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="왜 안되냐 빡치네">
+        android:text="version control -> log">
         
     </Button>
 </LinearLayout>
