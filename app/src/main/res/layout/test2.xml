@@ -6,7 +6,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="version control -> log">
+        android:text="new branch">
         
     </Button>
 </LinearLayout>
