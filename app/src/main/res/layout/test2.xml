@@ -4,9 +4,9 @@
     android:layout_height="match_parent">
 
     <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="추가/삭제 실험">
-
+        android:layout_width="400dp"
+        android:layout_height="280dp"
+        android:text="추가/삭제 실험 -> remote-tracking branch">
+        
     </Button>
 </LinearLayout>
